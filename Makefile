@@ -1,8 +1,8 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_VERSION:=1.0.4-20230408
-PKG_RELEASE:=
+PKG_VERSION:=1.0.4
+PKG_RELEASE:=20230408
 PKG_MAINTAINER:=Turing <Turing@xusw.com>
 
 LUCI_TITLE:=Easy Access AP / Modem
