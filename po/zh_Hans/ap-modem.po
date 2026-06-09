@@ -50,9 +50,3 @@ msgstr "支持“IP/掩码”、“IP/前缀长度”、以及纯“IP”格式�
 
 msgid "Enable"
 msgstr "启用"
-
-msgid "LAN"
-msgstr "局域网"
-
-msgid "WAN"
-msgstr "广域网"
