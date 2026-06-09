@@ -1,6 +1,12 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8"
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2026-06-09 00:00+0000\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Access AP / Modem"
 msgstr "访问AP/光猫"
@@ -41,3 +47,12 @@ msgstr "<br>例如，你想要访问光猫后台，它的IP地址是192.168.1.1�
 
 msgid "Supports \"IP/MASK\", \"IP/PREFIX\", and pure \"IP\" format, pure \"IP\" assumes a prefix of 24 bits"
 msgstr "支持“IP/掩码”、“IP/前缀长度”、以及纯“IP”格式，纯“IP”则假设前缀24位"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "LAN"
+msgstr "局域网"
+
+msgid "WAN"
+msgstr "广域网"
